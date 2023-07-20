@@ -8,8 +8,8 @@ out/
 /broadcast/**/dry-run/
 
 # Ignore library files
-node_modules/
-lib/
+node_modules/*
+lib/*
 
 # Docs
 docs/

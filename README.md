@@ -4,7 +4,7 @@
 This code is to create a provably random smart contract lottery..
 
 ## Current Timestamp
-https://youtu.be/sas02qSFZ74?t=14938
+https://youtu.be/sas02qSFZ74?t=17934
 
 ## What we want it to do?
 1. Users can enter by paying for a ticket.
